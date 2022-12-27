@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+2022-12-27 오늘부터 1일
+
 <!--
 **Kris0410/kris0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
